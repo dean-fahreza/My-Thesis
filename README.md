@@ -14,4 +14,4 @@
     Pada repositori kali ini saya akan membagikan hasil Skripsi saya berupa skripsi penelitian. Pada skripsi ini saya meneliti seberapa akurat model <em>Deep Learning</em>. Ilmu ini merupakan turunan dari ilmu Kecerdasan Buatan atau dikenal dengan <em>Artificial Intelligence</em>. <br><br>
 </p>
 
-Anda bisa melihat sumber kode terbuka dari penelitian saya [disini](https://github.com/dean-fahreza/My-Thesis/tree/main/src) atau jika anda ingin melihat lebih lengkap hasil skripsi penelitian saya, anda bisa melihat draf skripsi saya yang sudah saya simpan di Google Drive [disini](https://drive.google.com/file/d/18llFO0n3p3WoTD9hYVilFJvgxWVdsLZI/view?usp=sharing). Terima kasih jangan lupa beri star jika anda suka ya😁,
+Anda bisa melihat sumber kode terbuka dari penelitian saya [disini](https://github.com/dean-fahreza/My-Thesis/tree/main/src) atau jika anda ingin melihat lebih lengkap hasil skripsi penelitian saya, anda bisa melihat draf skripsi saya yang sudah saya simpan di Google Drive [disini](https://drive.google.com/file/d/18llFO0n3p3WoTD9hYVilFJvgxWVdsLZI/view?usp=sharing). Terima kasih jangan lupa beri star jika anda suka ya😁.
