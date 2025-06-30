@@ -6,4 +6,5 @@
  <h3 align="left"><em>Convolutional Neural Network</em></h3>
 
  *Convolutional Neural Network* (CNN) adalah salah satu model populer di *deep learning*. Model ini sering digunakan dalam pembuatan model deteksi, dan klasifikasi pada model data berupa citra gambar, video, pengenalan pola, dan pengenalan wajah. Model ini memanfaatkan jaringan linear khususnya perkalian matriks untuk mengidentifikasi pola data. CNN merupakan jenis jaringan saraf atau neural tertentu yang terdiri dari lapisan node, yang berisi lapisan input satu atau beberapa lapisan tersembunyi, dan lapisan output.
+
 Penjelasan lapisan-lapisan CNN sangat rumit bila dijelaskan hanya dengan menggunakan markdown ini. Oleh karena itu saya akan menjelaskan model CNN ini beserta ilmu matematikanya di draf skripsi saya. Anda bisa mengakses draf skripsi saya gratis [disini](https://drive.google.com/file/d/18llFO0n3p3WoTD9hYVilFJvgxWVdsLZI/view?usp=sharing) pada halaman 14.
