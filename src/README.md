@@ -1,0 +1,9 @@
+<h1 align="center"><em>Deep Learning</em> dan <em>Convolutional Neural Network</em></h1>
+<h3 align="left"><em>Deep Learning</em></h3>
+ 
+ *Deep learning* adalah turunan ilmu dari kecerdasan buatan yang menggunakan jaringan saraf tiruan (*neural network*) yang memiliki beberapa lapisan dalam untuk mempelajari suatu data. *Deep learning* memungkinkan suatu komputer untuk belajar secara otomatis melalui pengalaman yang diberikan agar sistem tersebut bisa mengidentifikasi pola yang kompleks dalam data. Ilmu ini memiliki jaringan saraf yang sama seperti manusia dimana model tersebut terdapat beberapa lapisan saraf buatan yang terhubung satu sama lain. *Deep learning* memiliki kemampuan pembelajaran yang kompleks secara otomoatis, mampu memperbaiki dan mengoptimalkan parameter dengan algoritma pembelajaran dengan istilah *backpropagation*. 
+
+ <h3 align="left"><em>Convolutional Neural Network</em></h3>
+
+ *Convolutional Neural Network* (CNN) adalah salah satu model populer di *deep learning*. Model ini sering digunakan dalam pembuatan model deteksi, dan klasifikasi pada model data berupa citra gambar, video, pengenalan pola, dan pengenalan wajah. Model ini memanfaatkan jaringan linear khususnya perkalian matriks untuk mengidentifikasi pola data. CNN merupakan jenis jaringan saraf atau neural tertentu yang terdiri dari lapisan node, yang berisi lapisan input satu atau beberapa lapisan tersembunyi, dan lapisan output.
+Penjelasan lapisan-lapisan CNN sangat rumit bila dijelaskan hanya dengan menggunakan markdown ini. Oleh karena itu saya akan menjelaskan model CNN ini beserta ilmu matematikanya di draf skripsi saya. Anda bisa mengakses draf skripsi saya gartis [disini](ttps://drive.google.com/file/d/18llFO0n3p3WoTD9hYVilFJvgxWVdsLZI/view?usp=sharing) pada halaman 14.
